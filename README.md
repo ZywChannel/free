@@ -1,2 +1,17 @@
-# free
-永久免费订阅/白嫖/节点/vpn/白嫖/订阅/机场/翻墙/加速器/科学上网/教程/破解/软件/资源/网站/ss/ssr/vmess/vless/v2ray/trojan/clash
+# Tg频道:@Zyw_Channel
+# https://t.me/Zyw_Channel
+电报频道关注防失联，订阅每天都在更新，只为帮助小白翻墙，使用教程可前往频道查看
+频道还有破解VPN，傻瓜操作点击即可翻墙
+频道:@Zyw_Channel
+
+## 订阅地址，国内优先使用镜像订阅
+
+通用base64/v2ray订阅：https://raw.githubusercontent.com/wwwzywasia/free/main/sub
+
+
+### 如果无法订阅，请使用下面的国内镜像订阅，节点是一样的。
+
+通用base64/v2ray订阅: https://raw.fastgit.org/wwwzywasia/free/main/sub
+       
+         两个镜像哪个能用用哪个
+https://raw.fgit.ml/wwwzywasia/free/main/sub
